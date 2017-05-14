@@ -1,0 +1,5 @@
+BASEDIR=$(dirname "$0")
+cd $BASEDIR
+source venv/bin/activate
+python source_python/presentation_driver.py $@
+deactivate

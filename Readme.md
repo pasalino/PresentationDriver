@@ -14,7 +14,7 @@ This project is created for [IoT meetup Milano](https://www.meetup.com/it-IT/IoT
 It's a basic example to use arduino with serial
 
 ##Electrical Scheme
-In docs there is an Elettrical scheme for build a device
+In docs there is an Electrical scheme for build a device
 Use Fritzing for open and look how connect all components
 ###Components
 * Arduino uno

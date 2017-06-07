@@ -16,7 +16,7 @@ It's a basic example to use arduino with serial
 ## Electrical Scheme
 In docs there is an Electrical scheme for build a device
 Use Fritzing for open and look how connect all components
-###Components
+### Components
 * Arduino uno
 * 1 Led Diode Red
 * 1 Led Diode Blue

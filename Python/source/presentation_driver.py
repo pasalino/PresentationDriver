@@ -6,7 +6,6 @@ import signal
 import argparse
 import pyautogui
 import serial.tools.list_ports
-import asyncio
 
 # Serial Port
 serialPort = None
